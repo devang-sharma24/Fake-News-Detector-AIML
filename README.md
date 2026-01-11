@@ -44,10 +44,8 @@ It is developed as part of an AIML internship project.
 
 ## ▶️ How to Run the Project
 
-### 1. Install dependencies
+### 1️⃣ Install dependencies
 ```bash
 pip install -r requirements.txt
 
-## 👨‍💻 Author
-Devang Sharma  
-AIML Internship Project
+
